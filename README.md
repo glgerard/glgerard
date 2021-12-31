@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @glgerard
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning TensorFlow NLP
-- 💞️ I’m looking to collaborate on few shot learning in medical imaging
+- 👀 I’m interested in AI and Computer Vision
 <!--- - 📫 How to reach me ... --->
 
 <!---
